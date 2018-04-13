@@ -7,7 +7,7 @@ if [ "${PACKAGE_NAME_PREFIX}" == "" ]; then
     exit 1
 fi
 
-NAME=${PACKAGE_NAME_PREFIX}-url-shortener-$1
+NAME=${PACKAGE_NAME_PREFIX}-url-shortener-$1-jonathan-cia
 DESCRIPTION="Friends of scalability $NAME"
 WORKING_PATH="$(dirname ${0})"
 
